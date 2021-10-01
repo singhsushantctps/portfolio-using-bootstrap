@@ -1,0 +1,16 @@
+body {
+  font-family: "Open Sans";
+  font-size: 10pt;
+  background-color: black;
+  color: aliceblue;
+}
+ section#home{
+   padding-top:17%;
+   padding-bottom:20%;
+   overflow: hidden;
+   background-color: black;
+  
+ }
+ .home-content{
+color:aliceblue;
+ }
