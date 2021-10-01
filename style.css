@@ -2,13 +2,15 @@
 body {
   font-family: "Open Sans";
   font-size: 6pt;
+  background-color: black;
+  height:100%;
   
   color: aliceblue;
 }
  section#home{
    height:70%;
-   padding-top:9%;
-   padding-bottom:15%;
+   padding-top:170px;
+   padding-bottom:16%;
    
    overflow: hidden;
    background-color: black;
