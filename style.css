@@ -1,22 +1,33 @@
 
 body {
   font-family: "Open Sans";
-  font-size: 6pt;
-  background-color: black;
-  height:100%;
-  
-  color: aliceblue;
-}
- section#home{
-   height:70%;
-   padding-top:170px;
-   padding-bottom:200px;
+  font-size: 5pt;
  
+}
+ 
+ #home{
+   height:70%;
+   padding-top:210px;
+   padding-bottom:200px;
   
    overflow: hidden;
-   background-color: black;
-  
- }
+    background-color: rgba(1, 1, 14, 0.829);
+}
  .home-content{
 color:aliceblue;
  }
+ body, html {
+  height: 100%;
+}
+#home {
+  /* The image used */
+  background-image: url("B.png");
+
+  /* Half height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
