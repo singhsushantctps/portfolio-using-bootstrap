@@ -1,9 +1,11 @@
 
-body {
-  font-family: "Open Sans";
-  font-size: 4pt;
- 
+
+.home-content h3 span{
+  font-family: 'Montserrat Extra-bold 800', sans-serif;
+  font-size:1.3em;
+  
 }
+ 
 
  
  #home{
@@ -14,9 +16,10 @@ body {
   
    overflow: hidden;
     background-color: rgba(1, 1, 14, 0.829);
+    font-family: 'Montserrat Light 300', sans-serif;
 }
  .home-content{
-color:rgb(194, 239, 245);
+color:rgb(193, 230, 235);
  }
  body, html {
   height: 100%;
@@ -24,6 +27,7 @@ color:rgb(194, 239, 245);
 #home {
   /* The image used */
   background-image: url("B.png");
+ 
 
   /* Half height */
   height: 100%;
@@ -33,8 +37,45 @@ color:rgb(194, 239, 245);
   background-repeat: no-repeat;
   background-size: cover;
 }
-#e{
-  padding-top: 500px;
+#introduction{
+  position: absolute;
+  
+  background-image: url("INTRO_BK.jpg");
+  width:100%;
+  background-position: center;
+  background-repeat: repeat;
+ 
+  background-size: cover;
+  color: rgba(104, 66, 9, 0.767);
+
+}
+#introduction{
+  padding-top: 50px;
+  text-align: center;
+  padding-bottom:400px;
+ 
+}
+#introduction p{
+  margin-top:20px;
+  padding-left:220px;
+  padding-right:220px;
+  padding-bottom: 50px;
+  font-family: 'Montserrat Light 300', sans-serif;
+  font-size:2em;
+ 
+}
+#introduction h1{
+  font-family: 'Montserrat Black 900 italic', sans-serif;
+  font-size:4em;
+
+}
+#introduction h3{
+  font-family: 'Montserrat Bold 700', sans-serif;
+  font-size:40px;
 }
 
-  
+
+
+
+
+
