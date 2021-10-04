@@ -1,9 +1,10 @@
 
 body {
   font-family: "Open Sans";
-  font-size: 5pt;
+  font-size: 4pt;
  
 }
+
  
  #home{
   height:70%;
@@ -35,3 +36,5 @@ color:rgb(194, 239, 245);
 #e{
   padding-top: 500px;
 }
+
+  
