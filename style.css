@@ -53,15 +53,18 @@ color:rgb(193, 230, 235);
   padding-top: 50px;
   text-align: center;
   padding-bottom:400px;
+   /* may be some difficulty in this <p>...use media quary or change fonts to became more responsive */
  
 }
+
 #introduction p{
   margin-top:20px;
   padding-left:220px;
   padding-right:220px;
   padding-bottom: 50px;
   font-family: 'Montserrat Light 300', sans-serif;
-  font-size:2em;
+  font-size:1.8em;
+ 
  
 }
 #introduction h1{
