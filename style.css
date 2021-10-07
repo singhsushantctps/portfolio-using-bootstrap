@@ -58,18 +58,19 @@ color:rgb(193, 230, 235);
 }
 
 #introduction p{
-  margin-top:20px;
-  padding-left:220px;
-  padding-right:220px;
-  padding-bottom: 50px;
+  margin-top:20p;
+  padding-left:17%;
+  padding-right:17%;
+  padding-bottom: 60px;
   font-family: 'Montserrat Light 300', sans-serif;
   font-size:1.8em;
+  color: rgba(99, 75, 10, 0.877);
  
  
 }
 #introduction h1{
   font-family: 'Montserrat Black 900 italic', sans-serif;
-  font-size:4em;
+  font-size:3.5em;
 
 }
 #introduction h3{

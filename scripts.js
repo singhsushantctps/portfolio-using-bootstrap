@@ -23,7 +23,3 @@ $(function () {
 		}
 	});
 });
-$(function () {
-	var x=prompt("PLEASE ENTER YOUR NAME");
-	alert("hello "+x+" will you again came to prision where i awaits to take your ass");
-});
